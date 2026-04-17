@@ -37,4 +37,3 @@ Database integration
 
 ## Author
 Mahnoor Shahbaz  
-Software Engineering Student
